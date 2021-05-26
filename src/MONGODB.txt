@@ -1,0 +1,2 @@
+mongodb+srv://cchicas:PVEGxDOKoBKXHdbL@cluster0.ssyn0.mongodb.net/crud-mongo?retryWrites=true&w=majority
+PVEGxDOKoBKXHdbL
